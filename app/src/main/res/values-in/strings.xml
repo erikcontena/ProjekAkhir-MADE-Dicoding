@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_movie">Film</string>
+    <string name="title_tv_show">Acara Tv</string>
+    <string name="title_favorite">Suka</string>
+    <string name="more_info">Info Lainnya</string>
+    <string name="release">Tayang</string>
+    <string name="rating">Peringkat</string>
+    <string name="overview">Gambaran</string>
+    <string name="add_favorite">Tambah ke Suka</string>
+    <string name="delete_favorite">Hapus Dari Suka</string>
+    <string name="petik">:</string>
+    <string name="language">Bahasa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="search">Cari</string>
+    <string name="empty_text">Empty Movie</string>
+    <string name="widget_favorite">Film Kesukaan</string>
+    <string name="title_activity_settings">Pengaturan</string>
+
+
+    <string name="summary_lang">Pilih Bahasa</string>
+    <string name="pref_title_notifications">Pemberitahuan</string>
+    <string name="summary_daily_reminder">Kamu akan mendapatkan pemberitahuan pengingat setiap jam 7 pagi</string>
+    <string name="daily_reminder">Pengingat harian</string>
+    <string name="summary_release_reminder">Kamu akan mendapatkan pemberitahuan Film keluar setiap jam 8 pagi</string>
+
+
+    <string name="release_today_reminder">Pengingat Tayang hari ini</string>
+    <string name="alarm_turned_on">%s Hidup</string>
+    <string name="alarm_turned_off">%s Mati</string>
+    <string name="has_been_release">%s Telah Tayang Hari ini!</string>
+    <string name="daily_notif_message">Cek Film di sini !</string>
+
+
+</resources>
